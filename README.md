@@ -1,5 +1,7 @@
 # Startup Investment Analysis — Shark Tank Data  
 
+To open the .twbx files you need to click on view raw and the file will gett downloaded and you can open it using tableau
+
 ## 📊 Project Overview  
 This project analyzes startup investment trends and founder success patterns using data from Shark Tank US. The goal is to identify funding trends across industries, investor contributions, founder demographics, and deal success patterns.  
 
