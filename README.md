@@ -17,5 +17,3 @@ This project analyzes startup investment trends and founder success patterns usi
 - Small funding stage pitches had the highest deal success rate (~63%).  
 - Mark Cuban was the most active investor across industries.  
 - Male founders secured the majority of successful deals, though mixed and female teams made notable contributions.  
-
-## 📂 Repository Structure  
